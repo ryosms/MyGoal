@@ -15,7 +15,6 @@ Python
 Unity
 -----
 * <http://japan.unity3d.com/>
-	- [Oculus](http://www.oculusvr.com/)欲しい
 
 Qt
 ---
@@ -23,6 +22,11 @@ Qt
 * [Qt](http://qt-users.jp/)
 * [Qt Quick](http://blog.qt.digia.com/jp/category/qt-quick/)
 	- [Qt QuickではじめるクロスプラットフォームUIプログラミング ](http://www.amazon.co.jp/dp/B00IAQ7S7E)入手済み
+
+Scala
+-----
+
+* [コップ本](http://www.amazon.co.jp/dp/4844330845/)入手済み
 
 FuelPHP
 -------
@@ -43,5 +47,16 @@ Android
 
 * アルゴリズムについて勉強しなおす
 * デザインパターンについて勉強しなおす
+* [Ansible](http://www.ansible.com/home)
+* [Docker](https://www.docker.io/)
+* さくらのクラウドで遊ぶ(2万円クーポンで)
 
+---
+
+お金かかるものとか
+------------------
+
+* [Oculus](http://www.oculusvr.com/)
+* SurfacePro3
+* バイク直したい
 
