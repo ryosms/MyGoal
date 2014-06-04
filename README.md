@@ -42,6 +42,12 @@ Android
 * 既存アプリの修正
 	- [廃止される楽天系API](http://rakuten-webservice.tumblr.com/post/77794559630/api-rakuten-co-jp-api)
 
+iOS
+----
+
+* ただし[Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097)に限る
+
+
 その他
 ------
 
