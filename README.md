@@ -48,14 +48,21 @@ iOS
 * ただし[Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097)に限る
 
 
+サーバ周り
+----------
+* [Ansible](http://www.ansible.com/home)
+* [Docker](https://www.docker.io/)
+* さくらのクラウドで遊ぶ(2万円クーポンで)
+* Azureで遊ぶ
+* TFServiceで遊ぶ
+
+
 その他
 ------
 
 * アルゴリズムについて勉強しなおす
 * デザインパターンについて勉強しなおす
-* [Ansible](http://www.ansible.com/home)
-* [Docker](https://www.docker.io/)
-* さくらのクラウドで遊ぶ(2万円クーポンで)
+
 
 ---
 
