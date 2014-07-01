@@ -32,8 +32,6 @@ FuelPHP
 -------
 
 * はじめてのフレームワークとしてのFuelPHP第2版
-	- [(1) 環境構築編](http://tatsu-zine.com/books/fuelphp1st-2nd-1)
-	- [(2) 入門編](http://tatsu-zine.com/books/fuelphp1st-2nd-2)
 	- [(3) 実践編](http://tatsu-zine.com/books/fuelphp1st-2nd-3)
 
 Android
@@ -48,14 +46,26 @@ iOS
 * ただし[Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097)に限る
 
 
+サーバ周り
+----------
+* [Ansible](http://www.ansible.com/home)
+* [Docker](https://www.docker.io/)
+* さくらのクラウドで遊ぶ(2万円クーポンで)
+* Azureで遊ぶ
+* TFServiceで遊ぶ
+
+
+DB
+---
+
+* [0xDBE](http://www.jetbrains.com/dbe/)
+
 その他
 ------
 
 * アルゴリズムについて勉強しなおす
 * デザインパターンについて勉強しなおす
-* [Ansible](http://www.ansible.com/home)
-* [Docker](https://www.docker.io/)
-* さくらのクラウドで遊ぶ(2万円クーポンで)
+
 
 ---
 
