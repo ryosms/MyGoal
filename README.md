@@ -32,8 +32,6 @@ FuelPHP
 -------
 
 * はじめてのフレームワークとしてのFuelPHP第2版
-	- [(1) 環境構築編](http://tatsu-zine.com/books/fuelphp1st-2nd-1)
-	- [(2) 入門編](http://tatsu-zine.com/books/fuelphp1st-2nd-2)
 	- [(3) 実践編](http://tatsu-zine.com/books/fuelphp1st-2nd-3)
 
 Android
