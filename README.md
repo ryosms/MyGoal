@@ -10,6 +10,11 @@ Python
 * [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro)
   - 似たようなのとして[PySide](http://qt-project.org/wiki/PySideDocumentationJapanese)
 
+Groovy
+------
+* [Groovy - Japanese Home](http://groovy.codehaus.org/Japanese+Home)
+* [Gradle](http://gradle.monochromeroad.com/docs/)
+
 Unity
 -----
 * <http://japan.unity3d.com/>
@@ -52,6 +57,7 @@ iOS
 * さくらのクラウドで遊ぶ(2万円クーポンで)
 * Azureで遊ぶ
 * TFServiceで遊ぶ
+* [lodge](https://github.com/lodge/lodge)で遊ぶ
 
 
 DB
