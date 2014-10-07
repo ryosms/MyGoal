@@ -1,8 +1,6 @@
 MyGoal
 ======
 
-やりたいこと
-
 Python
 ------
 
@@ -39,6 +37,7 @@ Android
 
 * 既存アプリの修正
 	- [廃止される楽天系API](http://rakuten-webservice.tumblr.com/post/77794559630/api-rakuten-co-jp-api)
+* Android Studioの導入
 
 iOS
 ----
